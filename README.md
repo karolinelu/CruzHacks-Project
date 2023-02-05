@@ -12,3 +12,10 @@ Sky texture: https://assetstore.unity.com/packages/2d/textures-materials/milky-w
 
 Semantic shader tutorial: https://lightship.dev/docs/ardk/context_awareness/semantic_segmentation/moderate_semantictextures_tutorial.html#doxid-moderate-semantictextures-tutorial
 
+Build instructions:
+
+- Open project in Unity
+- Extract files from CruzHacks 2.Zip
+
+
+
