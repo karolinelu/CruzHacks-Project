@@ -14,7 +14,7 @@ Semantic shader tutorial: https://lightship.dev/docs/ardk/context_awareness/sema
 
 Build instructions:
 
-- Extract files from CruzHacks 2.Zip
+- Extract files from CruzHacks.Zip
 - Open project in Unity 2021.3.18f LTS
 
 
